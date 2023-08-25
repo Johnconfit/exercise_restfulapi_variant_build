@@ -3,9 +3,9 @@
 This sample application allows us to make an API call to get the list of characters and associated details.
 
 To achieve we use 
-- Clean architecture that helps to create real separation between different layer of our app.
-- Flavor to create differents variants of build
-- Riverpod for our state management 
+- Clean architecture that helps to create separation between different layer of our app, which improves maintainability, modularity and testability.
+- Flavor to create differents variants of build, with the same code we can run differents app which different package name.
+- Riverpod for our state management.
 
 To properly run the app, we need to create the run configuration for each variant.
 
