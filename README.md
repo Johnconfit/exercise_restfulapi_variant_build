@@ -26,11 +26,18 @@ These commands can run the app, on Android studio or VS Code.
   - Download code
   - Open in VS Code for example
   - After flutter pub get
+  - 
+   [Android Simulator]
   - run this command :
   - flutter run --flavor wire -t lib/main_variant/main_wire.dart
   - or this :
   - flutter run --flavor simpsons -t lib/main_variant/main_simpson.dart
   - App will start.
+    
+  [iOS Simulator]
+  - just run this : flutter run
+  - The default app will start in iOS simulator.
+  - In order to run each variant or to use flutter run --flavor wire for example, some configurations are required on your workspace.
 
   
   Some Screens
