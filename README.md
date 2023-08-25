@@ -1,4 +1,4 @@
-# flutter_restfulapi - Characters Flutter App
+# RestfulApi - Characters Flutter App
 
 This simple application allows you to make an API call to list the characters and associated details.
 
