@@ -4,7 +4,7 @@ This sample application allows us to make an API call to get the list of charact
 
 To achieve we have used :
 - Clean architecture which helps to create separation between different layers of our app, which improves maintainability, modularity and testability.
-- Flavor to create different variants of builds, with the same code we can run different apps which different packages name. (added and work for Android and iOS).
+- Flavor to create different variants of builds, with the same code we can run different apps which different configurations( name app,  packages name, API Call, etc..). (added and work for Android and iOS).
 - Riverpod for our state management.
 
 To properly run the app, we need to create the run configuration for each variant.
