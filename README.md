@@ -1,4 +1,4 @@
-# flutter_restfulapi
+# flutter_restfulapi - Characters Flutter App
 
 This simple application allows you to make an API call to list the characters and associated details.
 
@@ -17,9 +17,10 @@ These command can run the app, on Android studio or VS Code.
 - flutter run --flavor wire
 - flutter run --flavor simpsons
 
-  or you can configure Android Studio and run thr Android Studio
+  or you can configure Android Studio and run thru Android Studio
   
-<img width="1118" alt="Screen Shot 2023-08-25 at 9 18 28 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/e0771d11-1283-413c-9247-22427ede5bca">
+<img width="1118" alt="Screen Shot 2023-08-25 at 9 18 28 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/e0771d11-1283-413c-9247-22427ede5bca"> <img width="1032" alt="Screen Shot 2023-08-25 at 10 28 03 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/80e6804e-5603-4c5c-ba67-e1dd81c8d8f9">
+
 
 View on Phones
 ![Screenshot_1692973006](https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/338abbf2-69bd-4b01-9ae1-90d1fcdf66a7)
