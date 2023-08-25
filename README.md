@@ -30,6 +30,8 @@ These commands can run the app, on Android studio or VS Code.
 Schemes on iOS
 <img width="932" alt="Screen Shot 2023-08-25 at 2 11 54 PM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/02eb68cf-1728-424f-8e48-6cc7eb640a5d">
 
+<img width="949" alt="Screen Shot 2023-08-25 at 2 25 19 PM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/c228ab4f-12ab-4bae-9db3-5a91ca3d8e45">
+
 
 View on Phones
 
