@@ -18,13 +18,16 @@ These commands can run the app, on Android studio or VS Code.
 - flutter run --flavor simpsons
 
   or you can configure Android Studio and run thru Android Studio, you can also run with xCode.
-  For each IDE just make sur to have a configuration ready (scheme and args for xCode and run configuration for Android Studio and VS Code).
+  For each IDE just make sure to have a configuration ready (scheme and args for xCode and run configuration for Android Studio and VS Code).
   
   When you run the app, the app name appears on the top and the package name on the bottom, depending on which variant you're running.
   
   Some Screens
   
 <img width="1118" alt="Screen Shot 2023-08-25 at 9 18 28 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/e0771d11-1283-413c-9247-22427ede5bca"> <img width="1032" alt="Screen Shot 2023-08-25 at 10 28 03 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/80e6804e-5603-4c5c-ba67-e1dd81c8d8f9">
+
+Scheme on iOS
+<img width="932" alt="Screen Shot 2023-08-25 at 2 11 54 PM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/02eb68cf-1728-424f-8e48-6cc7eb640a5d">
 
 
 View on Phones
