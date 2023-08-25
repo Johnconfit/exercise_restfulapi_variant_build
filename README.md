@@ -2,9 +2,9 @@
 
 This sample application allows us to make an API call to get the list of characters and associated details.
 
-To achieve we use 
-- Clean architecture that helps to create separation between different layer of our app, which improves maintainability, modularity and testability.
-- Flavor to create differents variants of build, with the same code we can run differents app which different package name.
+To achieve we have used :
+- Clean architecture which helps to create separation between different layers of our app, which improves maintainability, modularity and testability.
+- Flavor to create different variants of builds, with the same code we can run different apps which different packages name.
 - Riverpod for our state management.
 
 To properly run the app, we need to create the run configuration for each variant.
@@ -13,14 +13,15 @@ Dart End point :
  - for wire : lib/main_variant/main_wire.dart
  - for simpsons : lib/main_variant/main_simpson.dart
 
-These command can run the app, on Android studio or VS Code.
+These commands can run the app, on Android studio or VS Code.
 - flutter run --flavor wire
 - flutter run --flavor simpsons
 
-  or you can configure Android Studio and run thru Android Studio
+  or you can configure Android Studio and run thru Android Studio.
 
   When you run the app, the app name appears on the top and the package name on the bottom, depending on which variant you're running.
   
+  Some Screens
   
 <img width="1118" alt="Screen Shot 2023-08-25 at 9 18 28 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/e0771d11-1283-413c-9247-22427ede5bca"> <img width="1032" alt="Screen Shot 2023-08-25 at 10 28 03 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/80e6804e-5603-4c5c-ba67-e1dd81c8d8f9">
 
