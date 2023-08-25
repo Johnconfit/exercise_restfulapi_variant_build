@@ -1,0 +1,1 @@
+int limitWidthForPhone = 480;
