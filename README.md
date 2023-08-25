@@ -1,10 +1,26 @@
 # flutter_restfulapi
 
-A new Flutter project.
+This simple application allows you to make an API call to list the characters and associated details.
 
-## Getting Started
+To achieve we use 
+- Clean architecture that helps to create real separation between different layer of our app.
+- Flavor to create differents variants of build
+- Riverpod for our state management 
 
-This project is a starting point for a Flutter application.
+To properly run the app, we need to create the run configuration for each variant.
+
+Dart End point :
+for wire : lib/main_variant/main_wire.dart
+for simpsons : lib/main_variant/main_simpson.dart
+
+These command can run the app, on Android studio or VS Code.
+- flutter run --flavor wire
+- flutter run --flavor simpsons
+
+  or you can configure Android Studio and run thr Android Studio
+  
+<img width="1118" alt="Screen Shot 2023-08-25 at 9 18 28 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/e0771d11-1283-413c-9247-22427ede5bca">
+
 
 View on Phones
 ![Screenshot_1692973006](https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/338abbf2-69bd-4b01-9ae1-90d1fcdf66a7)
