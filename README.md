@@ -9,7 +9,7 @@ To achieve we have used :
 
 To properly run the app, we need to create the run configuration for each variant.
 
-Dart Enrtypoint :
+Dart Entrypoint :
  - for wire : lib/main_variant/main_wire.dart
  - for simpsons : lib/main_variant/main_simpson.dart
 
@@ -21,6 +21,17 @@ These commands can run the app, on Android studio or VS Code.
   For each IDE just make sure to have a configuration ready (scheme and args for xCode and run configuration for Android Studio and VS Code).
   
   When you run the app, the app name appears on the top and the package name on the bottom, depending on which variant you're running.
+
+  Quick launch without IDE Setup, you need to reach entrypoint manually.
+  - Download code
+  - Open in VS Code for example
+  - After flutter pub get
+  - run this command :
+  - flutter run --flavor wire -t lib/main_variant/main_wire.dart
+  - or this :
+  - flutter run --flavor simpsons -t lib/main_variant/main_simpson.dart
+  - App will start.
+
   
   Some Screens
 
