@@ -45,6 +45,5 @@ View on Tablets
 Search fonctinality
 ![Screenshot_1692974186](https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/e12fd444-16c5-4c0e-b622-e4ea5d7e2d8a)
 
-On xCode
-Schemes
+Thanks.
 
