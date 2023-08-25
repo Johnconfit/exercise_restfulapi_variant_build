@@ -21,7 +21,6 @@ These command can run the app, on Android studio or VS Code.
   
 <img width="1118" alt="Screen Shot 2023-08-25 at 9 18 28 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/e0771d11-1283-413c-9247-22427ede5bca">
 
-
 View on Phones
 ![Screenshot_1692973006](https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/338abbf2-69bd-4b01-9ae1-90d1fcdf66a7)
 ![Screenshot_1692969875](https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/5bdc6d14-8841-44b9-8d2d-03dfb92e5683)
