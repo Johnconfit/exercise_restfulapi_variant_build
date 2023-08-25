@@ -33,7 +33,8 @@ Schemes on iOS
 <img width="949" alt="Screen Shot 2023-08-25 at 2 25 19 PM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/c228ab4f-12ab-4bae-9db3-5a91ca3d8e45">
 
 
-View on Phones
+
+Some screens
 
 Wire variant
 ![Screenshot_1692973006](https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/338abbf2-69bd-4b01-9ae1-90d1fcdf66a7)
@@ -54,6 +55,7 @@ View on Tablets
 
 Search fonctionality
 ![Screenshot_1692974186](https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/e12fd444-16c5-4c0e-b622-e4ea5d7e2d8a)
+
 
 Thanks.
 
