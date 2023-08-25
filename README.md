@@ -9,7 +9,7 @@ To achieve we have used :
 
 To properly run the app, we need to create the run configuration for each variant.
 
-Dart End point :
+Dart Enrty point :
  - for wire : lib/main_variant/main_wire.dart
  - for simpsons : lib/main_variant/main_simpson.dart
 
