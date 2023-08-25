@@ -18,6 +18,9 @@ These command can run the app, on Android studio or VS Code.
 - flutter run --flavor simpsons
 
   or you can configure Android Studio and run thru Android Studio
+
+  When you run the app, the app name appears at the top and the package name at the bottom, depending on which variant you're running.
+  
   
 <img width="1118" alt="Screen Shot 2023-08-25 at 9 18 28 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/e0771d11-1283-413c-9247-22427ede5bca"> <img width="1032" alt="Screen Shot 2023-08-25 at 10 28 03 AM" src="https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/80e6804e-5603-4c5c-ba67-e1dd81c8d8f9">
 
