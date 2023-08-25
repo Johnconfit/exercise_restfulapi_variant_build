@@ -1,6 +1,6 @@
 # RestfulApi - Characters Flutter App
 
-This sample application allows you to make an API call to list the characters and associated details.
+This sample application allows us to make an API call to get the list of characters and associated details.
 
 To achieve we use 
 - Clean architecture that helps to create real separation between different layer of our app.
