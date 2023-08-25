@@ -4,7 +4,7 @@ This sample application allows us to make an API call to get the list of charact
 
 To achieve we have used :
 - Clean architecture which helps to create separation between different layers of our app, which improves maintainability, modularity and testability.
-- Flavor to create different variants of builds, with the same code we can run different apps which different packages name.
+- Flavor to create different variants of builds, with the same code we can run different apps which different packages name. (added and work for Android and iOS).
 - Riverpod for our state management.
 
 To properly run the app, we need to create the run configuration for each variant.
@@ -17,8 +17,9 @@ These commands can run the app, on Android studio or VS Code.
 - flutter run --flavor wire
 - flutter run --flavor simpsons
 
-  or you can configure Android Studio and run thru Android Studio.
-
+  or you can configure Android Studio and run thru Android Studio, you can also run with xCode.
+  For each IDE just make sur to have a configuration ready (scheme and args for xCode and run configuration for Android Studio and VS Code).
+  
   When you run the app, the app name appears on the top and the package name on the bottom, depending on which variant you're running.
   
   Some Screens
@@ -40,3 +41,7 @@ View on Tablets
 
 Search fonctinality
 ![Screenshot_1692974186](https://github.com/Johnconfit/exercise_restfulapi_variant_build/assets/65426068/e12fd444-16c5-4c0e-b622-e4ea5d7e2d8a)
+
+On xCode
+Schemes
+
