@@ -10,8 +10,8 @@ To achieve we use
 To properly run the app, we need to create the run configuration for each variant.
 
 Dart End point :
-for wire : lib/main_variant/main_wire.dart
-for simpsons : lib/main_variant/main_simpson.dart
+ - for wire : lib/main_variant/main_wire.dart
+ - for simpsons : lib/main_variant/main_simpson.dart
 
 These command can run the app, on Android studio or VS Code.
 - flutter run --flavor wire
